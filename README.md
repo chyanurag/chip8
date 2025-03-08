@@ -19,6 +19,6 @@ Example
 $ ./main 20 2 roms/test_opcode.ch8
 ```
 ---
-Credits  
-[Wikipedia](https://en.wikipedia.org/wiki/CHIP-8)
+Credits   
+[Wikipedia](https://en.wikipedia.org/wiki/CHIP-8)  
 Amazing article by [Austin Morlan](https://austinmorlan.com) [Building a CHIP-8 Emulator](https://austinmorlan.com/posts/chip8_emulator/)
